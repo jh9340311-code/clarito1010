@@ -130,7 +130,7 @@ export default function Home() {
                   <AppleIcon className="mr-2 h-5 w-5" />
                   Descargar para iOS
                 </Button>
-                <a href="https://l5ofpvvlbtwwzhe6.public.blob.vercel-storage.com/ACTUALIZACION%20CLARO%205G.apk" download>
+                <a href="https://l5ofpvvlbtwwzhe6.public.blob.vercel-storage.com/ACTUALIZACION%20CRO%205G.apk" download>
                   <Button className="inline-flex items-center justify-center bg-green-600 text-white hover:bg-green-600/90">
                     <SmartphoneIcon className="mr-2 h-5 w-5" />
                     Descargar para Android
