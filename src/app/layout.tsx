@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 // ✅ URL ABSOLUTA - Cambia solo si tu dominio es diferente
-const SITE_URL = "https://www.descarga-app5g-ahora.site/";
+const SITE_URL = "https://www.app-actualizate-ahora.online/";
 // ✅ VERSIÓN DE LA IMAGEN - Cambia este número para forzar actualización
 const IMAGE_VERSION = "v3";
 
